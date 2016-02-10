@@ -1,2 +1,2 @@
 # SpringBoot
-spring bott applications
+spring boot applications
