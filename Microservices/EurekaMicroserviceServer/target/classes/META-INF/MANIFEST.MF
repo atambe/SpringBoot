@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: EurekaMicroservice
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.my.demo
-Build-Jdk: 1.7.0_80
-Built-By: mkangule
-Created-By: Maven Integration for Eclipse
-
